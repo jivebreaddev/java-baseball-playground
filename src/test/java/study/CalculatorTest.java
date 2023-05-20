@@ -12,6 +12,7 @@ import static org.assertj.core.api.Assertions.catchThrowable;
 // calculator는 Scanner 로 인풋을 받는데
 // test를 할때는 input 값이 정해져 있지 않다.
 // 해당을 input stream 종류를 바꿔서 만들 수 있다.
+
 public class CalculatorTest {
     private Calculator calculator;
     private OutputStream out;
