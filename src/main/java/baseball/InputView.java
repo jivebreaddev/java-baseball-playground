@@ -13,6 +13,6 @@ public class InputView {
     public String get(){
 
         String number = scanner.next();
-        return number;
+        return numb er;
     }
 }
